@@ -1,0 +1,6 @@
+@vedansh.chatservice_HostAddress = http://localhost:5156
+
+GET {{vedansh.chatservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
